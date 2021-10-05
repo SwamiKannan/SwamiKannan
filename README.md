@@ -6,7 +6,7 @@
 ## <div align="center">I'm Swami, a consultant who has crossed over to the technology domain </div>  
   
 
-- 🌱 I’m currently learning the HuggingFace and the AI Gym library  
+- 🌱 I’m currently exploring the HuggingFace library (transformers) and the AI Gym library (DQN)
   
 
 - ❓ Ask me about anything related to process optimization, operations and analytics  
