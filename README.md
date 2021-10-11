@@ -1,4 +1,4 @@
-# Hi, I'm Swami 👋🏾 👩🏾‍💻
+# Hi, I'm Swami 👋🏾
 
 <img src="https://raw.githubusercontent.com/SwamiKannan/SwamiKannan/master/main.png" alt="banner that says Swami - Management consultant, seeker of positive change and an ardent traveller in a banner">
 
