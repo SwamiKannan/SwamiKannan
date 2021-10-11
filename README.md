@@ -1,7 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+# Hi, I'm Swami 👋🏾 👩🏾‍💻
+
+<img src="https://raw.githubusercontent.com/SwamiKannan/SwamiKannan/master/main.png" alt="banner that says Swami - Management consultant, seeker of positive change and an ardent traveller in a banner">
 
 ## <div align="center">I'm Swami, a consultant who has crossed over to the technology domain </div>  
   
