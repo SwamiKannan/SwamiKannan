@@ -17,6 +17,15 @@
 <br/>  
 
 ## Select Certificates of Completion
+<p align = "center">
+	<img src= "images/PGP_AIML_UTA.png" width=800>
+</p>
+	
+<p align = "center">
+	<img src= "images/PGP_AIML_GL.png" width=800>
+</p>
+
+## Coursera / Udemy Specializations
 
 <!-- Photo Grid -->
 <div class="row"> 
