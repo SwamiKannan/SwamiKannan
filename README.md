@@ -16,26 +16,7 @@
 
 <br/>  
 
-<style>
-* .row {
-  display: flex;
-  flex-wrap: wrap;
-  padding:24px;
-}
-
-.column {
- display: inline-block;   
-
-}
-
-
-.column img {
-  margin-bottom: 50px;
-  vertical-align: middle;
-}
-</style>
-</head>
-<body>
+## Select Certificates of Completion
 
 <!-- Photo Grid -->
 <div class="row"> 
@@ -61,6 +42,7 @@
   </div>
 </div>
 
+For all certificates, please go [here](https://github.com/SwamiKannan/Certifications)
 
 ## Connect with me  
 <div align="center">
