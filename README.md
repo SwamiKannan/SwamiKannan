@@ -16,7 +16,6 @@
 
 <br/>  
 
-## Select Certificates of Completion
 <p align = "center">
 	<img src= "images/PGP_AIML_UTA.png" width=800>
 </p>
