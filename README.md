@@ -16,7 +16,6 @@
   
 <br>
 <br>
-<br>
 <i>For all certificates, please go <a href="https://github.com/SwamiKannan/Certifications" >here</a></i>
 
 ## Connect with me  
