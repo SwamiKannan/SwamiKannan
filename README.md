@@ -16,6 +16,9 @@
   
 <br>
 <br>
+
+Holopin board:
+[![@inkognito's Holopin badges](https://holopin.me/inkognito)](https://holopin.io/@inkognito)
 <i>For all certificates, please go <a href="https://github.com/SwamiKannan/Certifications" >here</a></i>
 
 ## Connect with me  
